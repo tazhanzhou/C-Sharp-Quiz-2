@@ -1,0 +1,16 @@
+C:\Users\Utilisateur\source\repos\question2\question2\bin\Debug\question2.exe.config
+C:\Users\Utilisateur\source\repos\question2\question2\bin\Debug\question2.exe
+C:\Users\Utilisateur\source\repos\question2\question2\bin\Debug\question2.pdb
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\Window1.g.cs
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\Window1.baml
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.g.resources
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.exe
+C:\Users\Utilisateur\source\repos\question2\question2\obj\Debug\question2.pdb

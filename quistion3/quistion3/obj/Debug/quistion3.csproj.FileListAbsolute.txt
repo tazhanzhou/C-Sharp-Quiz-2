@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\bin\Debug\quistion3.exe.config
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\bin\Debug\quistion3.exe
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\bin\Debug\quistion3.pdb
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3.g.resources
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3.exe
+C:\Users\Utilisateur\source\repos\quistion3\quistion3\obj\Debug\quistion3.pdb

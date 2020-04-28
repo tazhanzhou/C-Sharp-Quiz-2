@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\source\repos\question5\question5\bin\Debug\question5.exe.config
+C:\Users\Utilisateur\source\repos\question5\question5\bin\Debug\question5.exe
+C:\Users\Utilisateur\source\repos\question5\question5\bin\Debug\question5.pdb
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.csprojAssemblyReference.cache
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\MainWindow.g.cs
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\App.g.cs
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5_MarkupCompile.cache
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5_MarkupCompile.lref
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\MainWindow.baml
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.g.resources
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.Properties.Resources.resources
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.csproj.GenerateResource.cache
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.exe
+C:\Users\Utilisateur\source\repos\question5\question5\obj\Debug\question5.pdb

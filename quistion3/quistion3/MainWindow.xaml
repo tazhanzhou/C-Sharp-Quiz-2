@@ -1,0 +1,22 @@
+﻿<Window x:Class="quistion3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:quistion3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="180" Width="300">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Tab1">
+                <StackPanel Margin="20" Orientation="Horizontal" HorizontalAlignment="Center">
+                    <Label Content="Show"></Label>
+                    <CheckBox x:Name="showTab2" Unchecked="showTab2_Unchecked" Checked="showTab2_Checked" Content="Tab2"></CheckBox>
+                </StackPanel>
+            </TabItem>
+            <TabItem x:Name="tab2" Header="Tab2" Visibility="Hidden">
+                
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
