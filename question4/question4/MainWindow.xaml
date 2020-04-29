@@ -14,7 +14,7 @@
                 <Button x:Name="checkBtn" Content="Check" Margin="5,0,0,0" Click="checkBtn_Click"></Button>
             </StackPanel>
             <StackPanel>
-                <ListBox x:Name="stListBox" Height="80" Margin="10"></ListBox>
+                <ListBox x:Name="studListBox" Height="80" Margin="10"></ListBox>
             </StackPanel>
         </StackPanel>
     </Grid>

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,32 +21,63 @@ namespace question4
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Student> students = new List<Student>();
+        ArrayList shownStdIdList = new ArrayList();
         public MainWindow()
         {
             InitializeComponent();
-            Student st1 = new Student(1, "John");
-            Student st2 = new Student(2, "Nash");
-            Student st3 = new Student(3, "Coco");
-            Student st4 = new Student(4, "Pix");
-            Student st5 = new Student(5, "Kit");
 
-            List<Student> students = new List<Student>();
-            students.Add(st1);
-            students.Add(st2);
-            students.Add(st3);
-            students.Add(st4);
-            students.Add(st5);
+            students.Add(new Student(1, "John"));
+            students.Add(new Student(2, "Nash"));
+            students.Add(new Student(3, "Coco"));
+            students.Add(new Student(4, "Pix"));
+            students.Add(new Student(5, "Kit"));
+
         }
 
         private void checkBtn_Click(object sender, RoutedEventArgs e)
         {
-            
+
             int inputIdValue = int.Parse(inputId.Text);
             bool inlist = false;
-            
-            
+            bool isExist = false;
+            foreach (Student stud in students)
+            {
+                if (stud.Id == inputIdValue)
+                {
+                    isExist = true;
+                    break;
+                }
+            }
+            if (isExist == false)
+            {
+                MessageBox.Show("This student id not exist");
+            }
+            else
+            {
+                foreach (int i in shownStdIdList)
+                {
+                    if (i == inputIdValue)
+                    {
+                        inlist = true;
+                        MessageBox.Show("This student is already in the list");
+                        break;
+                    }
+                }
 
+                if (inlist == false)
+                {
+                    foreach (Student st in students)
+                    {
+                        if (st.Id == inputIdValue)
+                        {
+                            studListBox.Items.Add(st.Name);
+                            shownStdIdList.Add(inputIdValue);
+                            break;
+                        }
+                    }
+                }
+            }
         }
     }
-    
 }
